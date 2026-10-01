@@ -1,0 +1,21 @@
+.bt-emoji{
+  
+   background-color: #c22c2c;
+
+
+}
+.p-emoji{
+    font-size: 150px;
+}
+
+.jogo{
+     min-width: 100vw;
+     min-height: 100vh;
+
+
+
+    background-color: rgb(88, 9, 9);
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
